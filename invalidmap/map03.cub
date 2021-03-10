@@ -1,0 +1,15 @@
+R 480 360    
+
+NO tex/mossy.xpm         
+SO tex/greystone.xpm
+WE tex/purplestone.xpm
+EA tex/redbrick.xpm
+
+S  tex/barrel.xpm
+
+C  80, 80, 80    
+F  110, 110, 110
+
+1111
+1NW1
+1111

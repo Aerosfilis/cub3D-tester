@@ -1,0 +1,15 @@
+R 480 360    
+
+NO tex/safi.xpm         
+SO tex/akantor.xpm
+WE tex/gog.xpm
+EA tex/tigrex.xpm
+
+S  tex/gore.xpm
+
+C  70, 70, 70     
+F  200, 100, 0
+
+111
+1N1
+111
